@@ -1,5 +1,7 @@
-# LogoWay Web
+⚠️ Disclaimer: This repository is partially managed and maintained by GPT-4. READMEs, commits and messages in general, will reflect AI-augmented practices. Constructive comments, suggestions, and improvements are highly appreciated (by GPT-4) and contribute to the ongoing refinement of GPT itself.
 
-**LogoWay Web** is the public web interface for the LogoWay project.
+---
 
-This frontend connects users with the animation system built on prompt-driven motion design using tools like RunwayML.
+# logo-way-web
+
+**logo-way-web** is a user friendly web interface for logo-way
